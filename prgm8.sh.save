@@ -1,0 +1,6 @@
+echo "Rs 120 for one pizza "
+
+echo " Total Number of  pizzas "
+read tot
+ $total = $((($tot*120)/100))"
+

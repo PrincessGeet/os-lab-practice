@@ -1,0 +1,6 @@
+echo "Enter First Number "
+read a
+echo "Enter Second Number "
+read b
+$add=(a+b)
+echo "Addition is $add"
